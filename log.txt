@@ -1,0 +1,58 @@
+**************************************************************
+Current processing dataset:  imdb
+**************************************************************
+-------------processing FP Stage-------------
+the execution time of FP stage is 1.6689300537109375e-06
+-------------finish FP Stage-------------
+-------------processing NA Stage-------------
+the execution time of NA stage is 0.18006467819213867
+-------------finish NA Stage-------------
+-------------processing LSF Stage-------------
+the execution time of LSF stage is 2.6226043701171875e-06
+-------------finish LSF Stage-------------
+-------------processing GSF Stage-------------
+the execution time of GSF stage is 3.0994415283203125e-06
+-------------finish GSF Stage-------------
+-------------processing FP Stage-------------
+the execution time of FP stage is 5.293491363525391
+-------------finish FP Stage-------------
+-------------processing NA Stage-------------
+the execution time of NA stage is 2.1424975395202637
+-------------finish NA Stage-------------
+-------------processing LSF Stage-------------
+the execution time of LSF stage is 0.3950231075286865
+-------------finish LSF Stage-------------
+-------------processing GSF Stage-------------
+the execution time of GSF stage is 0.1391468048095703
+-------------finish GSF Stage-------------
+-------------processing FP Stage-------------
+the execution time of FP stage is 1.6689300537109375e-06
+-------------finish FP Stage-------------
+-------------processing NA Stage-------------
+the execution time of NA stage is 9.509607791900635
+-------------finish NA Stage-------------
+-------------processing LSF Stage-------------
+the execution time of LSF stage is 0.39923548698425293
+-------------finish LSF Stage-------------
+-------------processing GSF Stage-------------
+the execution time of GSF stage is 0.14111757278442383
+-------------finish GSF Stage-------------
+-------------processing FP Stage-------------
+the execution time of FP stage is 1.430511474609375e-06
+-------------finish FP Stage-------------
+-------------processing NA Stage-------------
+the execution time of NA stage is 38.09862279891968
+-------------finish NA Stage-------------
+-------------processing LSF Stage-------------
+the execution time of LSF stage is 0.38819432258605957
+-------------finish LSF Stage-------------
+-------------processing GSF Stage-------------
+the execution time of GSF stage is 0.13679766654968262
+-------------finish GSF Stage-------------
+-------------processing Final Stage-------------
+the execution time of Final stage is 0.00018596649169921875
+-------------finish Final Stage-------------
+**************************************************************
+The number of processed edges is 524912
+stage-fusion PM: The execution time of inference process is 57.94467306137085 s
+**************************************************************
